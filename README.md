@@ -80,23 +80,7 @@ If you encounter any issues or have suggestions for improvement, please open an 
 
 
 
-## **🖥️ How to Install & Run**
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/nadeemahamad007/Voice-Assistant---JARVIS
-
-Navigate to the project directory:
-bash
-Copy code
-cd Voice-Assistant-JARVIS
-
-Install the required libraries:
-bash
-Copy code
-pip install -r requirements.txt
-
-Run the program:
-bash
-Copy code
-python jarvis.py
+## **🖥️ To Use and Update this Project**
+ Clone the repository:
+   ```bash
+   https://github.com/nadeemahamad007/Voice-Assistant---JARVIS
